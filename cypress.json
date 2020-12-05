@@ -1,6 +1,7 @@
 {
     "baseUrl": "https://google.com",
     "reporter": "cypress-multi-reporters",
+    "retries": 1,
     "reporterOptions": {
         "reporterEnabled": "mochawesome",
         "mochawesomeReporterOptions":{
