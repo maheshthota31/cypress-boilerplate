@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/maheshthota31/cypress-template#readme",
   "dependencies": {
-    "cypress": "^4.8.0",
+    "cypress": "^5.0.0",
     "cypress-multi-reporters": "^1.4.0",
     "mocha": "^8.0.1",
     "mochawesome": "^6.1.1",
