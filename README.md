@@ -1,4 +1,4 @@
-# cypress-boiler plate
+# cypress-boilerplate
 Steps to use this cypress boiler plate
 1. Clone this repo
 2. run "npm install" to install all the dependencies
