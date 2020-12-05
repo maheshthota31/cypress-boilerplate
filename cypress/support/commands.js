@@ -25,5 +25,5 @@
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
 Cypress.Commands.add("login", (email, password) => {
-    //code to login 
+    //code to login and you can call as cy.login(username,password) in your tests
 })
